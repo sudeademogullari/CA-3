@@ -58,6 +58,8 @@ No additional configuration is required.
 
 Acknowledgements
 The dataset is provided by the U.S. Census Bureau. The Decision Tree implementation is based on the scikit-learn library. Assignment structure and requirements are provided through course materials.
+
+
 Authors
 Sude Ademogullari
 Sadaf Sarbazi
