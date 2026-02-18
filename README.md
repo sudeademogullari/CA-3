@@ -13,8 +13,8 @@ The dataset used in this project is provided by the **U.S. Census Bureau** and c
 - **Number of instances:** 48,842  
 - **Number of attributes:** 7 (plus label and train/test indicator)  
 - **Target variable:** Income  
-  - ≤ 50K (0)  
-  - > 50K (1)
+  - '≤50K' (0)  
+  - '>50K' (1)
 
 The dataset is accessed directly from the following source and used consistently throughout the project:  
 https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true
